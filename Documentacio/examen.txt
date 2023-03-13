@@ -7,3 +7,9 @@ git remote add origin https://github.com/bernatmunu/examenm5uf2.git
 git add .
 git commit -m "examen"
 git push origin master
+--
+
+nano LICENSE
+git add .
+git commit -m "Llicencia GNU GPL"
+git push origin master

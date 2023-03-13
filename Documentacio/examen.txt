@@ -1,9 +1,0 @@
-mkdir examenm5uf2
-cd examenm5uf2
-nano README.MD
-nano COPYLEFT.txt
-git init
-git remote add origin https://github.com/bernatmunu/examenm5uf2.git
-git add .
-git commit -m "examen"
-git push origin master
